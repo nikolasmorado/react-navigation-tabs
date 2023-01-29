@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { AccessibilityRole, AccessibilityState, StyleProp, TextStyle, ViewStyle } from 'react-native';
-import Animated from 'react-native-reanimated-old-old';
+import Animated from 'react-native-reanimated-old';
 import { NavigationRoute, NavigationState, NavigationScreenProp, NavigationParams, NavigationDescriptor, NavigationScreenConfig, SupportedThemes } from 'react-navigation';
 export declare type NavigationTabState = NavigationState;
 export declare type NavigationTabProp<State = NavigationRoute, Params = NavigationParams> = NavigationScreenProp<State, Params> & {
