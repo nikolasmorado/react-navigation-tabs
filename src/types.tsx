@@ -6,7 +6,7 @@ import {
   TextStyle,
   ViewStyle,
 } from 'react-native';
-import Animated from 'react-native-reanimated-old';
+import Animated from 'react-native-reanimated-old-old';
 import {
   NavigationRoute,
   NavigationState,

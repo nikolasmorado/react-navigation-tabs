@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { View, StyleSheet } from 'react-native';
 import { TabBar } from 'react-native-tab-view';
-import Animated from 'react-native-reanimated-old';
+import Animated from 'react-native-reanimated-old-old';
 import { NavigationRoute } from 'react-navigation';
 import { MaterialTabBarProps } from '../types';
 
